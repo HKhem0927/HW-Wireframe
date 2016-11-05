@@ -1,0 +1,113 @@
+h1{width: 960px;
+	height: 80px;
+	background-color: #ebebeb;
+	text-align: center;
+	margin:10px ;	
+	padding-top: 20px;
+	padding-bottom: 20px;
+	font-size: 	18px;
+	font-family: arial;
+}
+
+nav{width:960px;
+	height: 90px;
+	background-color: #ebebeb;
+	text-align: center;
+	margin:10px ;	
+	padding-top: 20px;
+	padding-bottom: 20px;
+	font-family: "helvetica";
+	font-size: 18px;
+	float: left;
+	
+}	
+
+section{width: 495px;
+	display:table;
+	height: 200px;
+	background-color: #ebebeb;
+	text-align: center;
+	margin:5px; 
+	padding-top: 20px;
+	padding-bottom: 10px;
+	float:left;
+	position: relative;
+	font-size: 	18px;
+	font-family: arial;
+	
+}
+
+aside{width: 420px;
+	height: 200px;
+	background-color: #ebebeb;
+	text-align: center;
+	margin:5px;	
+	padding-top: 20px;
+	padding-bottom: 10px;
+	padding-right: 20px;
+	padding-left: 20px;
+	float:left;
+	position: relative;
+	overflow: auto;	
+	font-size: 	18px;
+	font-family: helvetica;
+}
+
+article{width: 400px;
+		height: 100px;
+		background-color: #777;
+		position: absolute;
+		padding: 10px 30px 40px 20px;
+		margin-left: 25px;
+		margin-right: 25px;
+		margin-top: 225px;
+		font-size: 	18px;
+		font-family: sans-serif;
+		text-align: center;	
+		color: white;	
+	
+	}
+
+h2{width: 400px;
+		height: 15px;
+		background-color: #ebebeb;
+		position: absolute;
+		padding: 5px 15px 20px 10px;
+		margin-left: 40px;
+		margin-right: 25px;
+		margin-top: 260px;
+		font-size: 	18px;
+		font-family: sans-serif;	
+		text-align: center;
+	
+	}
+
+	p{width: 400px;
+		height: 15px;
+		background-color: #ebebeb;
+		position: absolute;
+		padding: 5px 15px 20px 10px;
+		margin-left: 40px;
+		margin-right: 25px;
+		margin-top: 315px;
+		font-size: 	18px;
+		font-family: arial;
+		text-align: center;
+
+}		
+
+body {background-color: #777;
+}
+
+footer {width: 965px;
+	height: 80px;
+	background-color: #ebebeb;
+	text-align: center;
+	margin-top: 415px ;	
+	margin-left: 5px;
+	margin-bottom: 10px;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	font-size: 	18px;
+	font-family: helvetica;
+}
